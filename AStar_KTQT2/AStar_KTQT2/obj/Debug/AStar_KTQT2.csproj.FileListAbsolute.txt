@@ -1,0 +1,61 @@
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csprojResolveAssemblyReference.cache
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+D:\Bao_DA21TTA\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_AI\Bao_DA21TTA cơ sở AI\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Users\PC\Desktop\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+D:\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csprojResolveAssemblyReference.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\Bao_DA21TTA\Bao_DA21TTA\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Code\Co_So_Tri_Tue_Nhan_Tao\AStar_KTQT2 Thanh\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Users\admiin\Desktop\AStar_KTQT2\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe.config
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.exe
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\bin\Debug\AStar_KTQT2.pdb
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.AssemblyReference.cache
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.csproj.CoreCompileInputs.cache
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.exe
+C:\Users\admiin\Desktop\Nop_Bao_Cao_AStar\AStar_KTQT2\AStar_KTQT2\obj\Debug\AStar_KTQT2.pdb

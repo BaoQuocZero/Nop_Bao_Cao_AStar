@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|c:\\users\\admiin\\desktop\\nop_bao_cao_astar\\astar_ktqt2\\astar_ktqt2\\dothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\dothi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\astar_ktqt2\\astaralg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\astaralg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\astar_ktqt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\astar_ktqt2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\astar_ktqt2\\hdut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\hdut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\astar_ktqt2\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AF3512-BD70-45AD-B8CB-5490A74D3D3D}|AStar_KTQT2\\AStar_KTQT2.csproj|solutionrelative:astar_ktqt2\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Element.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Element.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\Element.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Element.cs",
+              "RelativeToolTip": "AStar_KTQT2\\Element.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:09:21.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Point.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Point.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\Point.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Point.cs",
+              "RelativeToolTip": "AStar_KTQT2\\Point.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T14:09:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HDUT.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\HDUT.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\HDUT.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\HDUT.cs",
+              "RelativeToolTip": "AStar_KTQT2\\HDUT.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAQwAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T09:10:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Program.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\Program.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\Program.cs",
+              "RelativeToolTip": "AStar_KTQT2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:51:18.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AStarAlg.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\AStarAlg.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\AStarAlg.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\AStarAlg.cs",
+              "RelativeToolTip": "AStar_KTQT2\\AStarAlg.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAIwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T07:48:36.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoThi.cs",
+              "DocumentMoniker": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\DoThi.cs",
+              "RelativeDocumentMoniker": "AStar_KTQT2\\DoThi.cs",
+              "ToolTip": "C:\\Users\\admiin\\Desktop\\Nop_Bao_Cao_AStar\\AStar_KTQT2\\AStar_KTQT2\\DoThi.cs",
+              "RelativeToolTip": "AStar_KTQT2\\DoThi.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAvwB4AAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T06:12:27.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
